@@ -1,0 +1,10 @@
+[package]
+name = "anchor"
+version = "0.1.0"
+edition = "2021"
+author = "Ankush Mondal <ankushmondal1y2t@gmail.com>"
+description = "A basic library to implement basic statistical, mathematical, linear algebra functionality"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
